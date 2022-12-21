@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ELENEUS
+- 👀 I’m interested in computer networking and web programming
+- 🌱 I’m currently learning java
+- 📫 How to reach me (eleneusswitbert@gmail.com)
